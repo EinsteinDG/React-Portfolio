@@ -13,7 +13,7 @@ function AboutCard() {
                 <div className="mt-3">
 
                     <p>I am a Fullstack Developer student at UT Coding Bootcamp </p>
-                    <p>Actually I'm about to finish this Full Stack Web Developer bootcamp and aiming in looking for jobs,  either internships or junior level offers.</p>
+                    <p>Actually I'm about to finish this Full Stack Web Developer bootcamp and aiming to look for jobs,  either internships or junior level offers.</p>
 
                     <p>
                         I am interested in learning about new opportunities and can
