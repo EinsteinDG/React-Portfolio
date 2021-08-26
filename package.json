@@ -16,7 +16,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0"
   },
-  "homepage": "https://github.com/EinsteinDG/React-Portfolio",
+  "homepage": "https://{EinsteinDG}.github.io/{React-Portfolio}",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
