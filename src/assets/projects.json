@@ -1,44 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Balance",
+    "name": "Pickflix & Grill",
     "image": "https://github.com/EinsteinDG/group-3/blob/main/assets/images/LandingPageEx.png",
-    "project": "Pickflix&Grill",
+    "project": "Pickflix & Grill",
     "location": "https://cnvives.github.io/group-3/"
   },
   {
     "id": 2,
-    "name": "Coding Quiz",
-    "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/Coding-Quiz.png?raw=true",
-    "project": "Javascript Quiz",
-    "location": "jamierachael.github.io/Code-Quiz/"
+    "name": "Long Rides",
+    "image": "https://github.com/EinsteinDG/Project_2/blob/main/images/signup-ss.png",
+    "project": "Long_Rides",
+    "location": "https://long-rides.herokuapp.com/"
   },
   {
     "id": 3,
-    "name": "Password Generator",
+    "name": "Note Taker",
     "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/Password-Generator.png?raw=true",
-    "project": "Random Password generator",
-    "location": "https://jamierachael.github.io/Password-Generator/"
+    "project": "Tech Blog",
+    "location": "https://techy-blog-app.herokuapp.com/"
   },
   {
     "id": 4,
-    "name": "Survivor Bootcamp Edition",
-    "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/Survivor-Boot-Camp-Edition.png?raw=true",
-    "project": "A Coding Bootcamp resource",
-    "location": "https://dvega920.github.io/Survivor-Bootcamp-edition/"
+    "name": "The FitApp Tracker",
+    "image": "https://github.com/EinsteinDG/Fitness_Tracker_Homework/blob/main/dashboard.png",
+    "project": "Fitness Tracker",
+    "location": "https://the-fitapp-tracker.herokuapp.com/"
   },
   {
     "id": 5,
-    "name": "Weather Dashboard",
-    "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/weather-dashboard.png?raw=true",
-    "project": "A Weather Tracking App",
-    "location": "https://jamierachael.github.io/Weather-Dashboard/"
+    "name": "Employee Managment System",
+    "image": "https://github.com/EinsteinDG/Employee_Managment_System/blob/main/assets/images/ems.gif",
+    "project": "An Employee Managment System",
+    "location": "https://github.com/EinsteinDG/Employee_Managment_System"
   },
   {
     "id": 6,
-    "name": "Work Day Scheduler",
-    "image": "https://github.com/jamierachael/React-Portfolio/blob/master/src/assets/Work-Day-Scheduler.png?raw=true",
-    "project": "A Daily Agenda",
-    "location": "https://jamierachael.github.io/Day-Planner/"
+    "name": "Team Profile Generator",
+    "image": "https://github.com/EinsteinDG/TeamProfileGenerator/blob/main/Assets/homepage.png",
+    "project": "A team Profile Generator",
+    "location": "https://github.com/EinsteinDG/TeamProfileGenerator"
   }
 ]
