@@ -6,7 +6,7 @@ function Footer(props) {
     return (
 
         <div class="footer bg-info">
-            <p>Jamie Rachael Morris</p>
+            <p>Einstein Damau</p>
         </div>
 
     );
